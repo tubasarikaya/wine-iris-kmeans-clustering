@@ -19,5 +19,5 @@ Detailed analysis, visualizations, and results are available in the notebook fil
 
 ## Contributors
 
-- Tuba Sarıkaya - 22060374
-- Zeynep Ravza Dursun - 22060385
+- Tuba Sarıkaya
+- Zeynep Ravza Dursun 
